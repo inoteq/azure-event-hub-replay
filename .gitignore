@@ -1,0 +1,13 @@
+/src/generated/
+/derby.log
+target/
+bin/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.settings
+.springBeans
+
+/src/main/resources/application-cti.properties
